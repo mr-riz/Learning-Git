@@ -1,5 +1,27 @@
           -------------------------------------GIT-COMMANDS-------------------------------------------
 
-1 git status  -  check you are in git repository or not or you are in parent directory or not.
-2 git init   -    it initialize git to generate .git file so that your file can trackable.
-3 git add (-all or file_name)   - this is use for putting the file in stageing area this is area before commiting
+*NOT USE BRACES WHILE USING THE COMMANDS. THIS IS ONLY USE FOR THE SEPERATOR PURPOSE.
+
+  Firstly create folder which do you want to make a trackable  and fire this command in this folder by opening git bash inside folder.
+
+1 git status  ->  check you are in git repository or not or you are in parent directory or not.
+
+2 git init   ->    it initialize git to generate .git file so that your file can trackable.
+
+3 git add (-all or file_name)   -> this is use for putting the file in stageing area this is area before commiting..
+
+4 git restore --staged (file_name) -> it will restore the file from stageing area.
+
+5 git commit -m ("----write concise msg-----")  -> we have write this command for commit the file to repository.
+
+6 git log -> it will show  which file commited on what time at your side.
+
+7 git push (url) -> it will push the file to main repository.
+
+8 git diff (file_name)  -> this is use for checking what we changed in the file 
+
+9 git clone (url) -> it will clone all file from your repository and put all those file in your git folder.
+
+10 ls -> it will list all file from your git folder ok.
+ 
+
