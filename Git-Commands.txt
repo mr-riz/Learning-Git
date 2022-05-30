@@ -1,1 +1,5 @@
           -------------------------------------GIT-COMMANDS-------------------------------------------
+
+1 git status  -  check you are in git repository or not or you are in parent directory or not.
+2 git init   -    it initialize git to generate .git file so that your file can trackable.
+3 git add (-all or file_name)   - this is use for putting the file in stageing area this is area before commiting
