@@ -8,7 +8,11 @@
 
 2 git init   ->    it initialize git to generate .git file so that your file can trackable.
 
-3 git add (-all or file_name)   -> this is use for putting the file in stageing area this is area before commiting..
+3 git add (-all or file_name)   -> this is use for putting the file in stageing area this is area before commiting.
+
+  i) git add . -> this is for adding all the file to stageing area.
+  
+  ii)git add --all  -> this is same as i) 
 
 4 git restore --staged (file_name) -> it will restore the file from stageing area.
 
@@ -18,7 +22,7 @@
 
 7 git push (url) -> it will push the file to main repository.
 
-8 git diff (file_name)  -> this is use for checking what we changed in the file 
+8 git diff (file_name with or without file name)  -> this is use for checking what we changed in the file before commit.
 
 9 git clone (url) -> it will clone all file from your repository and put all those file in your git folder.
 
