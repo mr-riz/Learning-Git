@@ -22,7 +22,7 @@
 
 7 git push (url) -> it will push the file to main repository.
 
-8 git diff (file_name with or without file name)  -> this is use for checking what we changed in the file before commit.
+8 git diff (file_name with or without file name)  -> this is use for checking the difference between local or staging area.
 
 9 git clone (url) -> it will clone all file from your repository and put all those file in your git folder.
 
